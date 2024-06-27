@@ -58,12 +58,6 @@ The model XGBoost has the highest accuracy and also The listed (feature extracti
 📍 The Write-up Documentation for this project is named "Chapter 1-5 DETECTING PHISHING WEBSITES USING MACHINE LEARNING.pdf"
 
 
-
-# Web application 
-I created a Web application named <a href="https://phish-buster.vercel.app/">Phishbuster</a> to help Users Validate Website Links. The name of the folder is <b>"Project_Webapp.7z"</b> 
-NOTE: The website isn't linked to the ML functionality. But you can check the Project Video.
-
-
 # ML work 
 The ML work folder consists of "Dataset" and "Jupyter Notebook of the project" 
 **Phishing Website Detection Training & Testing Models on Datasets.ipynb**
